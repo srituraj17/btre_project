@@ -10,7 +10,7 @@ psycopg2-binary==2.8.5
 pylint==2.5.3
 pylint-django==2.1.0
 pylint-plugin-utils==0.6
-pyspark==3.0.0.dev0
+pyspark==3.2.2
 pytz==2020.1
 six==1.15.0
 sqlparse==0.3.1
